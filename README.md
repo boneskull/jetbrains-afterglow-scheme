@@ -8,7 +8,24 @@
 
 ## Screenshot
 
-![screenshot](https://cldup.com/tIqiC1SwRl.png)
+![screenshot](//raw.githubusercontent.com/boneskull/jetbrains-afterglow-scheme/master/screenshots/afterglow.png)
+
+## Installation
+
+1.  Clone this repo.
+2.  Copy `Afterglow.icls` into the `colors/` subdirectory of your IDE preferences directory.
+
+  Example (MacOS X, PyCharm):
+
+  ```shell
+  /Users/you/Library/Preferences/PyCharm50/colors/Afterglow.icls
+  ```
+
+For more information on the installation location, see [DOC-181](https://devnet.jetbrains.com/docs/DOC-181).
+
+## Development
+
+Symlink the file?  Dunno.
 
 ## Notes
 
