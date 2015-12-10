@@ -35,4 +35,4 @@ Symlink the file?  Dunno.
 
 ## License
 
-© 2015 [Christopher Hiller](https://boneskull.com)
+© 2015 [Christopher Hiller](https://boneskull.com).  Licensed MIT.
