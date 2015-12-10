@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![screenshot](//cldup.com/tIqiC1SwRl.png)
+![screenshot](https://cldup.com/tIqiC1SwRl.png)
 
 ## Installation
 
