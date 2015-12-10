@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![screenshot](//raw.githubusercontent.com/boneskull/jetbrains-afterglow-scheme/master/screenshots/afterglow.png)
+![screenshot](//cldup.com/tIqiC1SwRl.png)
 
 ## Installation
 
